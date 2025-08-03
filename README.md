@@ -7,7 +7,7 @@ Este projeto documenta a concepção e implementação de um pipeline de dados p
 ## 2. Diagrama da Arquitetura Final
 
 ![Diagrama da Arquitetura](Arquiteruta_Pipline_AWS.png)
-*(Nota: Certifique-se de que o nome do arquivo da sua imagem no repositório seja exatamente "Arquiteruta_Pipline_AWS.png" para que ela apareça aqui.)*
+
 
 ## 3. Contexto de Negócio
 
@@ -51,3 +51,4 @@ O principal desafio do projeto foi a persistente falha do AWS Glue Crawler em in
 ## 6. Conclusão e Próximos Passos
 
 O pipeline implementado é uma solução robusta e escalável que transforma dados brutos em um ativo pronto para análise. Como próximos passos, a arquitetura pode ser estendida para incluir automação via agendamento, implementação de regras de qualidade com AWS Glue Data Quality e o desenvolvimento de dashboards completos no QuickSight.
+
